@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Skin Disease AI</string>
+    <string name="subtitle_text">AI-powered dermatological lesion analysis</string>
+    <string name="cd_medical_icon">Medical AI Cross Icon</string>
+    <string name="cd_selected_image">Selected skin lesion image</string>
+    <string name="cd_scan_icon">Scan icon</string>
+    <string name="cd_disclaimer_icon">Disclaimer icon</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="no_image_hint">Tap Camera or Gallery below to analyze</string>
+    <string name="btn_camera">📷 Camera</string>
+    <string name="btn_gallery">🖼️ Gallery</string>
+    <string name="result_label">AI DIAGNOSTIC RESULT</string>
+    <string name="status_ready">Ready</string>
+    <string name="waiting_image">Waiting for image...</string>
+    <string name="medical_disclaimer">Disclaimer: For informational reference only. Consult a qualified dermatologist for clinical diagnosis.</string>
+</resources>

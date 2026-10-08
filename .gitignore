@@ -1,0 +1,21 @@
+# Android build files
+SkinDiseaseAI/build/
+SkinDiseaseAI/.gradle/
+SkinDiseaseAI/.idea/
+SkinDiseaseAI/local.properties
+SkinDiseaseAI/app/build/
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+release/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

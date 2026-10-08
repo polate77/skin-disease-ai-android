@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Medical Theme Colors -->
+    <color name="medical_primary">#00668A</color>
+    <color name="medical_primary_dark">#004B6E</color>
+    <color name="medical_secondary">#0284C7</color>
+    <color name="medical_accent">#0EA5E9</color>
+    <color name="medical_accent_light">#E0F2FE</color>
+    <color name="medical_bg_start">#EBF3F6</color>
+    <color name="medical_bg_end">#F8FAFC</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_muted">#94A3B8</color>
+
+    <!-- Risk Level Colors -->
+    <color name="risk_green">#10B981</color>
+    <color name="risk_green_bg">#D1FAE5</color>
+    <color name="risk_yellow">#F59E0B</color>
+    <color name="risk_yellow_bg">#FEF3C7</color>
+    <color name="risk_red">#EF4444</color>
+    <color name="risk_red_bg">#FEE2E2</color>
+</resources>

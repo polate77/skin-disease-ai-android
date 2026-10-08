@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SkinDiseaseAI" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/medical_primary</item>
+        <item name="colorPrimaryVariant">@color/medical_primary_dark</item>
+        <item name="colorSecondary">@color/medical_secondary</item>
+        <item name="android:statusBarColor">@color/medical_bg_start</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.SkinDiseaseAI" parent="Base.Theme.SkinDiseaseAI" />
+</resources>
